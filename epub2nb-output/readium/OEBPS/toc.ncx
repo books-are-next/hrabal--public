@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:685a9b3c-d71f-40eb-953c-aff5f49ca319" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Perlička na dně</text>
+  </docTitle>
+  <docAuthor>
+    <text>Bohumil Hrabal</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>—</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Večerní kurs</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Miláček</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Staré zlaté časy</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Fádní odpoledne</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_009.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Smrt pana Baltisberga</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_010.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Emánek</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_011.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Andělské oči</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_012.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Podvodníci</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_013.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Baron Prášil</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_014.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Křtiny 1947</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_015.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>U zeleného stromu</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_016.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Pražské jesličky</text>
+      </navLabel>
+      <content src="Text/perlicka_na_dne_017.xhtml#toc_marker-13"/>
+    </navPoint>
+  </navMap>
+</ncx>
