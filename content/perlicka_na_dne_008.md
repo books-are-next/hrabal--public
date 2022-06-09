@@ -3,8 +3,6 @@ title: Staré zlaté časy
 contentType: prose
 ---
 
-  
-
 Bylo poledne. Dva staří páni, kteří se právě vykoupali, leželi na prknech Žluté plovárny a slunce sálalo tak, že měli plavky už skoro suché.
 
 Hostinský si hladil šedivá chlupatá prsa a vzpomínal: „Poslední velkej kšeft jsem měl v roce čtyřicet vosum. Přihlásil jsem se v popovickým pivovaře na slet. Předseda povídá: ‚Složte kauci a dostanete ten největší stánek na strahovským stadionu, aby ve zdravým těle sídlil i zdravý duch.‘ Povídám: ‚Vždyť na ten nájem, to abych vytočil sto tupláků piva!‘ Ale předseda pivováru řekl, že Tyršova myšlenka je tak hluboká, že vytočím ne sto, ale určitě čtyři sta hektolitrů piva. Tak jsme si podali ruce a přáli jsme si Sletu zdar!“

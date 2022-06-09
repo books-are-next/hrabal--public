@@ -3,8 +3,6 @@ title: Smrt pana Baltisberga
 contentType: prose
 ---
 
-  
-
 Skoro celé dopoledne a potom ještě večer leželi na starých pytlích pod autem a montovali zadní péra.
 
 „Jak jen to péro mohlo prasknout, jak?“ zlobil se otec.

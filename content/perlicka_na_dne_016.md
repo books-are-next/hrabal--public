@@ -3,8 +3,6 @@ title: "U\_zeleného stromu"
 contentType: prose
 ---
 
-  
-
 Od tý doby, co třináctka před hospodou U zelenýho stromu nevytočila zatáčku a probourala se skrz vokno až k samým pípám, od tý doby moc hostů sem přestalo chodit. To ale nevadilo panu Chlumeckýmu, hostinskýmu, kterej měl největší radost z toho, až se ráno probudí, jak si natočí první pivo. Dneska už od rána si dával za šnytem šnyt a postával u zasklenejch dveří a četl si parte, na kterým stálo: Oznamuju všem svým známým, že já, Julie Kadavá, odborná učitelka, jsem umřela ve věku 67 let. Můj pohřeb se bude konat v 15 hodin na hřbitově v Ďáblicích dne 16. září 1961 (datum bylo dopsaný tužkou). A podepsána sama nebožka: Julie Kadavá, odborná učitelka.
 
 Tohle když si pan Chlumecký přečetl, dycky vrtěl hlavou a vrátil se k pípám a položil na ně vobě ruce, pak si natočil šnyt, naráz ho vypil a hned špláchal sklenici ve dřezu.

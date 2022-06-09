@@ -3,8 +3,6 @@ title: Fádní odpoledne
 contentType: prose
 ---
 
-  
-
 Hned po polednách přišel do naší hospůdky mladík, takovej kluk. Nikdo nevěděl vo něm, čím je nebo odkud asi přišel. A hned se posadil ke stolu, pod motorek na stlačenej vzduch, poručil si třicet cigaret a pivo. Pak votevřel knížku a vod tý doby jen četl, pil a kouřil. Prsty měl načisto žlutý, asi vod toho, že kouřil až do tý doby, kdy ho ten vajgl začal pálit. To nahmatal na ubruse cigaretu, odpálil si ji od toho špačka a hulil dál. Ale ani na chvilku nesjel vočima z řádek tý knížky.
 
 Ten čas si ho nikdo nevšímal, poněvadž bylo před fotbálem a hospůdka byla plná fandů, každej volepenej do svátečních šatů, smáli se všicí a byli plný naděje, že to jejich mužstvo vyhraje. Pořád se rovnali v zádech, jako by jim nepasoval kabát, vypínali prsa, dávali si ruku frajersky do kapsy, a když pili vestoje u pultu pivo, hrozně se přeli, jestli to bude čtyři jedna nebo pět jedna pro to jejich mužstvo.
