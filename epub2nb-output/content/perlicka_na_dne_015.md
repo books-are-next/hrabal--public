@@ -3,8 +3,6 @@ title: Křtiny 1947
 contentType: prose
 ---
 
-  
-
 Posadil se do příkopu u okresní silnice. Slunce zapadlo, ale hvězdy ještě nevyšly. Tak seděl v příkopu a díval se, jak po státní silnici se řítí auta a motorky. Teď jedno auto rozsvítilo malá světla a protijedoucí auto též. Tak začal na státní silnici podvečer a všechna vozidla si před sebou kropila asfaltku cudně sklopenými světly. Pak první auto přehodilo velká světla a reflektory postříkaly vápnem všechny stromy v aleji. Tak začal na státní silnici večer.
 
 Viděl, jak přijíždí osvětlený autobus, jak zastavuje a pak odjíždí se dvěma rubínovými světly na zadku, věděl, že je to jeho autobus, který jej měl odvézt do městečka, kde měl zamluvený nocleh, ale on seděl v příkopu u okresní silnice a díval se přes pole, jak po hlavní silnici se křižují reflektory, mrkají červené blinkry, zdvořile se přehazují potkávací světla a koncová světýlka se jedna druhým vzdalují.

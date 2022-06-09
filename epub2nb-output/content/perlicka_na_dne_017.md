@@ -3,8 +3,6 @@ title: Pražské jesličky
 contentType: prose
 ---
 
-  
-
 Na dvoře synagogy rostly akáty, a ty když v létě kvetly, jako by padal sníh. Dneska se sníh sypal už od rána. U plotu nějaká ženská kladivem roztloukala bedýnku od jižního ovoce a prkýnka rovnala do dětského kočárku. A docela za synagogou bylo pohřebiště kulis. Tady leželo to, co si už nechtěli odvízt ani ochotníci. Sádrová Venuše popsaná nemravnými obrázky, schody, které nevedly nikam, rozbité zrcátko, spirály z kanape, mořská tráva. A déšť a sníh to porichtovaly tak, že vespod se ty komedie vracely nazpátek do země, docela se měnily v humus, plný rezatých hřebíků a skel. To jen sem tam trčelo cosi z té hromady, co při trošce fantazie vypadalo jako něco. Když sem chodívali technikáři divadla močit, nejdřív odhadovali, pak se hádali a nakonec podávali důkazy, že tohle je větev z Ardenského lesa a tohle je pelest z Veselých paniček windsorských. A že kluci vystříleli prakem skoro všecka okna, tak větve akátů vrůstaly do synagogy a naopak z rozbitých oken zase čouhaly kulisy na dvůr.
 
 Ale nejpěkněji tady bývalo před vánočními svátky. To každý rok, tak jako dnes, se zde prodávaly vánoční stromky, celý remízek smrčků a jedliček, a lidé brali ty stromky, úderem o zem je donu­tili, aby se větvičky rozevřely a ukázaly, jestli to jsou smrčky pěkné nebo jen takové, kterým je třeba přidělat chybějící chvojí. Dneska padal sníh už od rána a nádvoří vonělo jehličím.

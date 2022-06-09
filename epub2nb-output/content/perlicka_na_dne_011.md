@@ -3,8 +3,6 @@ title: Emánek
 contentType: prose
 ---
 
-  
-
 Nechtělo se mu ještě jít domů, a tak si řekl, půjdu na kafe. Už se stmívalo, ale poznal, že se před ním pajdá stará Ziková.
 
 „Chutný podvečer, milostivá,“ pozdravil.

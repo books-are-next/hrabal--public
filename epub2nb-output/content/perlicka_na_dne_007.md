@@ -3,8 +3,6 @@ title: Miláček
 contentType: prose
 ---
 
-  
-
 Ještě před půlnocí postavili kanálníci na šarši. Tedy celkem šest králů a šestatřicet kokilen. Pracovali mlčky, soustředěně, protože kudy teče žhavá ocel, všechny ty cesty musejí být ze šamotových trubek nebo důkladně vymazané grafitem. Když pak nasadili na kokilny klobouky a připravili dřevěné uhlí, předák rozhodl:
 
 „Tak, kluci, vorazíme si, ju?“ A přeběhl po pružném prkně přes kanál.

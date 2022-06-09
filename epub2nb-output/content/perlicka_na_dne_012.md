@@ -3,8 +3,6 @@ title: Andělské oči
 contentType: prose
 ---
 
-  
-
 Optal se mladičké prodavačky: „Kdepak je pan šéf?“ Ukázala prstíkem na dveře a řekla: „Paní šéfová je v zahradě a pan šéf je asi v pekárně… A kdo jste vy?“ Odpověděl: „Jsem reprezentant pojišťovny.“
 
 A do pekařského krámu vešli lidé a dívka se jich ptala, co si přejí. Lidé si kupovali housky a rohlíky a chleba. A zase přicházeli další. Prodavačka znovu ukázala prstíkem na dveře: „Paní šéfová je v zahradě a pan šéf v pekárně.“

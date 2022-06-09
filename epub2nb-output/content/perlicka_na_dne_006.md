@@ -3,8 +3,6 @@ title: Večerní kurs
 contentType: prose
 ---
 
-  
-
 Už chvíli jsem stál na opuštěném rohu Valentinské a Veleslavínovy. Pak z Mariánského náměstí zahnul motocykl a stočil to ke mně. Byla to ta dvěstěpadesátka jawa se dvěma řídítky. Ze zadního sedadla lehce se svezl instruktor a hned zkřehlými prsty vytáhl cigaretu. Než si zapálil, díval se chvilku vyčítavě na svého žáka, který pořád seděl na té mašině a kramflekem se snažil dát tam neutrál.
 
 „Ještě to tam nemáte! Ještě ne, ani teď ne!“ brblal instruktor a cigareta se mu pohybovala v ústech. „No, dneska jste mi toho moc neukázal. Na těch křižovatkách, to je hrozný! A zhasněte světla! A hned mi řekněte, jaký máme pravidla křižovatek?“

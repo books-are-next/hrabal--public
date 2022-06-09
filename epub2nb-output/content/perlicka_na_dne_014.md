@@ -3,8 +3,6 @@ title: Baron Prášil
 contentType: prose
 ---
 
-  
-
 Do práce jezdil Haňťa brzo. V tramvaji si sedl, vytáhl z aktovky Herald Tribune a dělal, že pročítá se zájmem úvodník.
 
 Pak zvolal: „Ty kapitalisti si stejné koledujou! Já bych jim dal politiku síly!“

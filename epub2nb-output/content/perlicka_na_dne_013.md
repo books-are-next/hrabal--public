@@ -3,8 +3,6 @@ title: Podvodníci
 contentType: prose
 ---
 
-  
-
 „… takovou že ránu sklenicí? A u Fiakra?“
 
 „Ano, u Fiakra.“
