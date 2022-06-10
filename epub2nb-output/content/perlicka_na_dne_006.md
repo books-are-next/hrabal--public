@@ -3,6 +3,8 @@ title: Večerní kurs
 contentType: prose
 ---
 
+<section>
+
 Už chvíli jsem stál na opuštěném rohu Valentinské a Veleslavínovy. Pak z Mariánského náměstí zahnul motocykl a stočil to ke mně. Byla to ta dvěstěpadesátka jawa se dvěma řídítky. Ze zadního sedadla lehce se svezl instruktor a hned zkřehlými prsty vytáhl cigaretu. Než si zapálil, díval se chvilku vyčítavě na svého žáka, který pořád seděl na té mašině a kramflekem se snažil dát tam neutrál.
 
 „Ještě to tam nemáte! Ještě ne, ani teď ne!“ brblal instruktor a cigareta se mu pohybovala v ústech. „No, dneska jste mi toho moc neukázal. Na těch křižovatkách, to je hrozný! A zhasněte světla! A hned mi řekněte, jaký máme pravidla křižovatek?“
@@ -144,3 +146,5 @@ Psal.
 „Vyřídím.“
 
 A pan Fořtík se dotkl čela a otevřel plyn. Využil smyku na vlhké dlažbě, otočil mašinu skoro na místě o sto osmdesát stupňů a řinčel si to někam k Vltavě.
+
+</section>

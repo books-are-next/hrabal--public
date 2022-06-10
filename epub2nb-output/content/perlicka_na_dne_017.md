@@ -3,6 +3,8 @@ title: Pražské jesličky
 contentType: prose
 ---
 
+<section>
+
 Na dvoře synagogy rostly akáty, a ty když v létě kvetly, jako by padal sníh. Dneska se sníh sypal už od rána. U plotu nějaká ženská kladivem roztloukala bedýnku od jižního ovoce a prkýnka rovnala do dětského kočárku. A docela za synagogou bylo pohřebiště kulis. Tady leželo to, co si už nechtěli odvízt ani ochotníci. Sádrová Venuše popsaná nemravnými obrázky, schody, které nevedly nikam, rozbité zrcátko, spirály z kanape, mořská tráva. A déšť a sníh to porichtovaly tak, že vespod se ty komedie vracely nazpátek do země, docela se měnily v humus, plný rezatých hřebíků a skel. To jen sem tam trčelo cosi z té hromady, co při trošce fantazie vypadalo jako něco. Když sem chodívali technikáři divadla močit, nejdřív odhadovali, pak se hádali a nakonec podávali důkazy, že tohle je větev z Ardenského lesa a tohle je pelest z Veselých paniček windsorských. A že kluci vystříleli prakem skoro všecka okna, tak větve akátů vrůstaly do synagogy a naopak z rozbitých oken zase čouhaly kulisy na dvůr.
 
 Ale nejpěkněji tady bývalo před vánočními svátky. To každý rok, tak jako dnes, se zde prodávaly vánoční stromky, celý remízek smrčků a jedliček, a lidé brali ty stromky, úderem o zem je donu­tili, aby se větvičky rozevřely a ukázaly, jestli to jsou smrčky pěkné nebo jen takové, kterým je třeba přidělat chybějící chvojí. Dneska padal sníh už od rána a nádvoří vonělo jehličím.
@@ -131,7 +133,9 @@ Když se vrata otevřela, od stropu synagogy mrholila zelenkavá omítka a pada
 
 „Tak já ti to říkám. Ale v tý inventuře jsme, Miltone, asi udělali nějakou děsnou chybu, protože to máme pořád v pořádku. A neviděls někde tady moji červenou tužku?“ optal se jevištní mistr a šel si zase ohřát ruce do prosincové metelice.
 
-  
+</section>
+
+<section>
 
 „Jsme tady na dovolené od hrobaře, ne?“ říkal pan Bedar, zaměstnanec Léčivých bylin. A ráno se hned po šesté stavil u Marián­ského obrazu a tu pětikorunu, co mu dala žena na oběd, tu tam hned promazal v hořčáku. Pak chodil od stolu ke stolu, až někdo od něho koupil svačinu. A ty peníze pan Bedar hned proměnil v hořce páchnoucí pohár. Když pak nic neměl, liboval si: „Teďka když vylezu na strom, nemám na zemi co k pohledávání… a proč?“ A hned si odpověděl: „Protože jsme tady na dovolené od hrobaře.“ Pak teprve šel do práce třídit heřmánek a jitrocel a myslil na to, koho by tak dneska pumpnul? Avšak ti, kteří s ním pracovali, mu už nepůjčili, v hospodách byl pan Bedar tak zadlužen, že musel na svačinu jezdit tramvají, aby tam, kde ho neznají, mu nalili a pak se s ním handrkovali o zaplacení… a poskytli mu úvěr. „Je to numero, je to sociální případ,“ říkával o něm jeho vedoucí, aby malinko ospravedlnil i sebe. A pan Bedar se mu odměňoval tím, že když viděl někde svého šéfa, jak se u pultu pěkně narovnal a hodil do sebe štamprli, tu pan Bedar tahal v koutku hosty za rukáv, ukazoval na svého představeného a šeptal: „To bude zase manko!“ Dneska si pan Bedar vyjel tramvají, aby navštívil Miltona, svého kamaráda, se kterým třídíval léčivé byliny.
 
@@ -243,7 +247,9 @@ Pan Bedar se rozloučil, až zaslzel.
 
 Když odešel, hostinský ukázal oknem a řekl: „To je šaramantní člověk, že?“
 
-  
+</section>
+
+<section>
 
 Z orchestru vystupoval Raskolnikov, kladl si ruku na srdce a říkal si: „Velikou věc chci dneska vykonat…,“ a vyšel na dvůr v Gorochově ulici, kde v prvním patře svítil pokoj Kateřiny Ivanovny, lichvářky a překupnice.
 
@@ -338,3 +344,5 @@ Zavřel vrata a vrátil se.
 Řekl: „Asi budu mít příjemné Vánoce, tak jako když jsem se vrátil z nemocnice se srdcem. Povídám: ‚Pane plukovníku, pan profesor nebyl doma, tady je to srdce.‘ A doktor se podíval do pytlíku a vykřikl: ‚Ty blboune, to srdce je načisto zkažený.‘ Tak jsem to srdce vzal a vodnesl je do kotelny a hodil do ohně… Ale teďka vím, že v Jihlavě není zastřešenej stadion a že v tom marastě tam udělá Opava křížek…, překvapeníčko. A moje naděje, zkrácený tris za dvě stě třicet korun, bude tatam…“
 
 Soněčka Marmeladová, se žlutými copy, ve slamáčku s umělými třešněmi, se ukláněla Raskolnikovi a říkala způsobně: „Přijdete na pohřeb prosím?“
+
+</section>

@@ -3,6 +3,8 @@ title: Staré zlaté časy
 contentType: prose
 ---
 
+<section>
+
 Bylo poledne. Dva staří páni, kteří se právě vykoupali, leželi na prknech Žluté plovárny a slunce sálalo tak, že měli plavky už skoro suché.
 
 Hostinský si hladil šedivá chlupatá prsa a vzpomínal: „Poslední velkej kšeft jsem měl v roce čtyřicet vosum. Přihlásil jsem se v popovickým pivovaře na slet. Předseda povídá: ‚Složte kauci a dostanete ten největší stánek na strahovským stadionu, aby ve zdravým těle sídlil i zdravý duch.‘ Povídám: ‚Vždyť na ten nájem, to abych vytočil sto tupláků piva!‘ Ale předseda pivováru řekl, že Tyršova myšlenka je tak hluboká, že vytočím ne sto, ale určitě čtyři sta hektolitrů piva. Tak jsme si podali ruce a přáli jsme si Sletu zdar!“
@@ -26,3 +28,5 @@ Hostinský zvedl trup, opřel se dlaněmi o horká prkna a díval se doktorovi
 „To tedy byl úspěch,“ žárlil doktor a stíral si hřbetem ruky pot, který se z něho řinul. „Podobné štěstí jsem zažil po filipojakubské noci. Řezník stahoval zdechlinu a onemocněl uhlákovou neštovicí. Léčil jsem ho a dostal jsem tu nemoc taky, takže každý lékař mi to záviděl, protože o mně psaly i lékařské noviny. Byla z toho ale malá nepříjemnost. Zvonil umíráček a starosta se domníval, že ten řezník už umřel, a poslal tedy zřízence s rakví. Ale řezník vyběhl s nožem, rozkopl rakev a přihnal si to ke mně do ordinace. Několik týdnů jsem pak nemohl na veřejnost,“ pověděl doktor, zvedl se, ale když se podíval na prkna, viděl, že pot obtiskl ty části těla, na kterých ležel. Ulehl tedy na suchá prkna vedle hostinského a pokračoval: „Krásný případ jsem taky měl, když kovářovi vletěla do oka okuje, a ten kovář měl pořád dojem, že vidí sochu nahé ženy. Tak jsem mu tu okuji vytáhl, ale oko vyteklo. ‚Škoda tý pohledný sochy!‘ vzdychl tenkrát ten dobrý muž. To byl nádherný den tenkrát! Sprchlo, pak vysvitlo slunce a duhou ode mne odcházel ten zafáčovaný kovář… Mě vůbec provázela životem poetičnost.“
 
 „To mě taky. Skoro každý živnostník nadával tenkrát na slet, ale já jsem říkal: ‚To jste Češi? Styďte se!‘ Protože jsem byl vlastenec. A po sletě jsme tři dny jen počítali.“ Hostinský se vymrštil a vyvaloval oči ještě teď. „Zamkli jsme se, rozvazovali jeden ubrus po druhým, už jsem z toho počítání měl horečku, ale pořád jsem počítal, kór když po čtvrtým ubrusu jsem už věděl, že myšlenka Tyršova je ne krásná, ale báječná, poněvadž ty další ubrusy už byly pro mě. Vydělal jsem osm ubrusů… Tři sta tisíc!“ přísahal hostinský vkleče a díval se na doktora, ale ten neotevřel oči.
+
+</section>

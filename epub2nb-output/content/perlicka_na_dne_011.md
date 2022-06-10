@@ -3,6 +3,8 @@ title: Emánek
 contentType: prose
 ---
 
+<section>
+
 Nechtělo se mu ještě jít domů, a tak si řekl, půjdu na kafe. Už se stmívalo, ale poznal, že se před ním pajdá stará Ziková.
 
 „Chutný podvečer, milostivá,“ pozdravil.
@@ -85,7 +87,9 @@ Emánek se zastavil. Věděl, že paní Ziková půjde teď podle Rokytky domů,
 
 Držela mu upřímně ruku a v očích najednou vypadala, jako by doplakala. Pak pajdala podle hučícího potoka.
 
-  
+</section>
+
+<section>
 
 Emánek přešel hlavní ulici, pak prošel automatem a po schodech rovnou nahoru, do tančírny. I když to bylo na periferii, bylo zde všechno zrovna tak jako v centru. Usedl na vysokou barovou židli, opřel se o pult a poručil si:
 
@@ -246,3 +250,5 @@ Emánek přeběhl chodbu a po schodech sestoupil do automatu. Dal si grenadinu 
 „Řeknu jí to, babi. Na mou duši že řeknu. A dobrou noc.“
 
 „Dobrou, dobrou…,“ brumlala stařena a zvolna jedla.
+
+</section>

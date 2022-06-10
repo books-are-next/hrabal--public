@@ -3,6 +3,8 @@ title: Smrt pana Baltisberga
 contentType: prose
 ---
 
+<section>
+
 Skoro celé dopoledne a potom ještě večer leželi na starých pytlích pod autem a montovali zadní péra.
 
 „Jak jen to péro mohlo prasknout, jak?“ zlobil se otec.
@@ -23,7 +25,9 @@ Tak zatím, když někam dojeli, lidi říkali: „Sakra, ta vaše kredenc je n�
 
 Tak na Velkou cenu Československa dali do auta dvě staré polstrované židle a dozadu přidrátovali skládací židli ze zahrady. Matka nasmažila řízky, do litrové láhve od maggi nalila žaludeční hořkou a po půlnoci vyjeli do Brna podívat se na motocyklové závody.
 
-  
+</section>
+
+<section>
 
 Když v krásné krajině snědli řízky, otec usnul a matka se strýcem si lehli na okraj lesíčku, hned u Farinových zatáček. Sem tam si cvakli z té láhve od maggi a dívali se na závody. Už se jelo poslední kolo stopětadvacítek a jako první si to vytruboval Franta Bartoš, jistý, klidný, docela zalehlý do své čízy OHC. Tak si to hřměl tratí, a kudy jel, dvě stě padesát tisíc diváků postupně propukalo v jásot a František to viděl, viděl všechny ty dlaně, ty šátky a kapesníky, celou tu slávu a nebál se, to tedy Franta Bartoš, ten se nikdy nebál, a když, tak jedině, aby mu nefixlovalo zapalování nebo se nezadřel píst. Teď vjel do poslední Farinovy zatáčky a už ani neubral plyn, jen zalehl do mašiny a už to zase rauboval.
 
@@ -189,7 +193,9 @@ Když matka řekla strýci, že pan Baltisberger se zabil, strýc Pepin povědě
 
 To řekl strýc, ale muž v kolečkové židli měl hlavu skloněnou a slzy mu kapaly na deku…
 
-  
+</section>
+
+<section>
 
 Tam za lesíkem, tak tři sta metrů za Farinovými zatáčkami, se právě probudili dva učedníci pracovních záloh, kteří celou noc jeli z Chomutova, tak jako desetitisíce jiných motoristů, aby uviděli Velkou cenu. Za jitra se procházeli už Brnem jako desetitisíce podobných a po sedmé hodině vyjeli k trati, aby potom jásali nad vítězstvím Franty Bartoše a byli nadšeni odvážnou jízdou Františka Šťastného. Ale pak byli chlapci tak unaveni, že si v přestávce lehli pod kabáty a usnuli. Když se probudili, polekali se.
 
@@ -230,3 +236,5 @@ Ale učedníci pracovních záloh, kteří přijeli až z Chomutova se podívat
 Rozhlas slavnostně hlásil: „Na stupeň vítězů vystupuje Horst Kassner, po jeho pravici Heck, po levici Koštýř a pionýrky jim uvazují ty svoje půvabné šátečky. Nad námi je helikoptéra už tak vysoko, až se ztrácí ve slunci. Vezměte si prosím programy a škrtněte si číslo dvacet osm, Bili Hall, Velká Británie, a místo něho si napište Czekurti, Maďarsko, na stroji gillera. Dříve než začne závod pětistovek, škrtněte si…“
 
 „To už je pan Baltisberger docela mrtvej?“ spráskl ruce učedník pracovních záloh.
+
+</section>

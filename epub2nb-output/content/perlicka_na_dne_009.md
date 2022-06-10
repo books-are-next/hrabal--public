@@ -3,6 +3,8 @@ title: Fádní odpoledne
 contentType: prose
 ---
 
+<section>
+
 Hned po polednách přišel do naší hospůdky mladík, takovej kluk. Nikdo nevěděl vo něm, čím je nebo odkud asi přišel. A hned se posadil ke stolu, pod motorek na stlačenej vzduch, poručil si třicet cigaret a pivo. Pak votevřel knížku a vod tý doby jen četl, pil a kouřil. Prsty měl načisto žlutý, asi vod toho, že kouřil až do tý doby, kdy ho ten vajgl začal pálit. To nahmatal na ubruse cigaretu, odpálil si ji od toho špačka a hulil dál. Ale ani na chvilku nesjel vočima z řádek tý knížky.
 
 Ten čas si ho nikdo nevšímal, poněvadž bylo před fotbálem a hospůdka byla plná fandů, každej volepenej do svátečních šatů, smáli se všicí a byli plný naděje, že to jejich mužstvo vyhraje. Pořád se rovnali v zádech, jako by jim nepasoval kabát, vypínali prsa, dávali si ruku frajersky do kapsy, a když pili vestoje u pultu pivo, hrozně se přeli, jestli to bude čtyři jedna nebo pět jedna pro to jejich mužstvo.
@@ -92,3 +94,5 @@ Starej Jupa povídá: „Ňáko se mi to nelíbí, asi je remíza v luftě!“ 
 Starej Jupa šel k skleněnejm dveřím, koukal se ven. Ani neviděl, že teďka se zase vrátila do naší ulice ta pěkná ženská, která pořád točila kabelkou…, a za ní, tak tři metry pozadu, jak ve snách jde to pravý křídlo z déefcé a pořád nese ten kastrol se zelím, a nese ho jako proutkář, když proutkem hledá vodu… Teďka ta ženská zahnula k biografu a ten kastrol s kyselým zelím zahnul za ní…
 
 Tak starej Jupa stál ve skleněných dveřích s rukama rozepjatýma jak ňákej Kristus na rozcestí. A kdo by se podíval takhle ze strany, viděl by, jak starýmu Jupovi vandrujou po tváři slzičky. Ale hostinskej už roznášel posilující likér…
+
+</section>
