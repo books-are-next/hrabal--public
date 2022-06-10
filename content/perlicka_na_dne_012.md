@@ -3,6 +3,8 @@ title: Andělské oči
 contentType: prose
 ---
 
+<section>
+
 Optal se mladičké prodavačky: „Kdepak je pan šéf?“ Ukázala prstíkem na dveře a řekla: „Paní šéfová je v zahradě a pan šéf je asi v pekárně… A kdo jste vy?“ Odpověděl: „Jsem reprezentant pojišťovny.“
 
 A do pekařského krámu vešli lidé a dívka se jich ptala, co si přejí. Lidé si kupovali housky a rohlíky a chleba. A zase přicházeli další. Prodavačka znovu ukázala prstíkem na dveře: „Paní šéfová je v zahradě a pan šéf v pekárně.“
@@ -79,7 +81,9 @@ Reprezentant se po špičkách vrátil ke dveřím, pootevřel a škvírou vid�
 
 Pojišťovák vběhl do krámu, a než dovřel dveře, slyšel, jak na chodbě huláká mistr Beránek: „A pojedeme do Prahy! A s bejčákem v ruce!“
 
-  
+</section>
+
+<section>
 
 Mistr Beránek se podíval, zdali nejede tramvaj, pak vstoupil do jízdní dráhy, aby si lépe přečetl číslo domu. „Je to tady,“ řekl s uspokojením a vstoupil do domu. Na zdi byla tabulka s nápisem: Živnostenská pojišťovna, páté patro. Na klice výtahu pak byla další tabulka: Výtah nejezdí.
 
@@ -123,6 +127,10 @@ Když sestupoval po schodech, ve třetím patře si musel sednout a opřít si 
 
 „Co já jim tam řeknu, to si za rámeček nedají!“ a o celé schodiště výš se vyklonil nad zábradlím a volal dolů: „To tedy nedají!“ a běžel dál a jeho slábnoucí skoky bylo slyšet až do té doby, než za ním zabouchly dveře pojišťovny.
 
-  
+</section>
+
+<section>
 
 Mistr Beránek vyšel na náměstí. Hned vedle kostela stála kašna, uprostřed té kašny bylo sousoší stočených rybek, kterým z otevřených tlamiček chrstal vodotrysk. Pan Beránek se nejdřív díval na tu pleskající vodu, pak si navlhčil ruku a otřel si skráně, pak odložil hůl a oběma rukama nabíral z vodotrysku osvěžující živel a přikládal si jej na obličej. Nakonec se nahnul přes obrubu kašny a nechal padat vodotrysk na týl hlavy. A lidé se zastavovali, po čtvrt hodině sem přišel esenbák. Vytáhl notes, sňal z něho gumičku od zavařeniny, pak zatřásl panem Beránkem a optal se. „Co tady děláte? Je vám špatně?“ dodal, když viděl pekařův obličej. Pan Beránek teď udeřil zavřenou pěstí do otevřené dlaně a zvolal: „Andělský voči!“ a zase nastrčil hlavu, aby mu chladný vodotrysk pleskal na týl…
+
+</section>

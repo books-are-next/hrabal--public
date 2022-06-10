@@ -3,6 +3,8 @@ title: Baron Prášil
 contentType: prose
 ---
 
+<section>
+
 Do práce jezdil Haňťa brzo. V tramvaji si sedl, vytáhl z aktovky Herald Tribune a dělal, že pročítá se zájmem úvodník.
 
 Pak zvolal: „Ty kapitalisti si stejné koledujou! Já bych jim dal politiku síly!“
@@ -49,7 +51,9 @@ Haňťa šátral v aktovce a vytáhl italskou Unitu.
 
 „A to já tedy tak nenechám. Ještě dneska podám hlášku na rodičovský sdružení!“ řekla mlíkařka, hodila hlavou a dívala se teskně ven do ulice…
 
-  
+</section>
+
+<section>
 
 U pojišťovny čekal pokladník.
 
@@ -153,7 +157,9 @@ Haňťa pak zahlídl, jak k nim do sběrny zahýbá zpocený člověk a tlač�
 
 Když se Haňťa vrátil do dvora, řekl šéfovi. „Ten s tou károu…, to je příšerný! To je symbolickej vobraz mýho minulýho života!“
 
-  
+</section>
+
+<section>
 
 K deváté hodině přišel do dvora sběrny stařík, obešel skupinu klientů, kteří se tísnili kolem váhy, a postavil se doprostřed dvora. Prohlížel si nábožně všecky zdi a kouty a nakonec sundal i čepici jako v nějakém kostele.
 
@@ -199,7 +205,9 @@ Ale hned se zachmuřil.
 
 Stařík v slzách pak rychle odcházel průjezdem.
 
-  
+</section>
+
+<section>
 
 Mařenka, která balila papír a všechno to poslouchala, rozdrkotala se z toho: „Jéžíši…, vy chlapi, že vás to pořád baví! Teď zase si prodávat kostry! A já přijdu navečír domů a tam to budu mít znova. Doma mě zase chodějí utěšovat sousedi!“ naříkala a vystýlala přitom papírem bednu.
 
@@ -223,7 +231,9 @@ Haňťa strčil pod kabát dívčí románky a pověděl: „Musím jít koupit
 
 „Chlapi, ještě že mám na Olšanech hrobku. To je moje krásná neděle. Jdu na hřbitov, stojím u svý hrobky a představuju si, jak spokojeně ležím dole…, žádný chlapi, žádnej papír, žádný křesťani. Už abych tam byla!“ zatoužila Mařenka.
 
-  
+</section>
+
+<section>
 
 Když Haňťa vešel do hospody, nepozdravil, ale položil dívčí románky na pult a rozhlídl se. Jeden host už zaplatil, a když odcházel, spokojeně vrněl, druhý bubnoval na cínový pult a zálibně sledoval, jak kelnerka proti světlu nalívala rum, a třetí host, když se vynadíval do plné skleničky, rychle hodil hlavou nazad a zvrátil ji do sebe.
 
@@ -313,7 +323,9 @@ Haňťa postavil prázdnou skleničku a pošeptal kelnerce: „… pak v park
 
 „Tak, dámo…,“ srazil Haňťa kramfleky, „na vaše zdraví!“
 
-  
+</section>
+
+<section>
 
 Šéf přehodil kliku váhy a řekl: „Tak co pěknýho hrajete?“
 
@@ -421,7 +433,9 @@ Haňťa, když nasbíral posilu v radujících se Mařenčiných očích, řekl
 
 „Kdybych já jenom měla sílu, co já bych vám všecko, chlapi, řekla,“ blekotala Mařenka. „Ale já už tu sílu nemám. To akorát doma, když jsem v posteli a je zamknuto, tak pod peřinou si nahlas říkám to, co bych vám tady chtěla říct… A teďka, Haňťo, mě ještě poráží vlastní dcera. Vzala si doktora, toho starýho kocoura, kterej teďka, aby mu neblbla, tak jí každej rok udělá dítě a doporučuje jí, aby chodila zpívat do kostela a hodně se modlila. Tak chodí do kostela a je z těch velebníků už docela zlá. Včera mi psala, že kdybych byla její sestrou v Kristu, a ne pouhou tělesnou matkou, že by mi byl muž neumřel, ale že nejsem její sestrou v Kristu, tím uvaluju na celou rodinu hněv Boží… Ještě že mám tu hrobku na Olšanech…“
 
-  
+</section>
+
+<section>
 
 Pan Bouček z Turisty vozil jednou týdně všelijaké, už propadlé letáčky. Odumíraly mu nervy a tak se pořád zpožďoval.
 
@@ -451,7 +465,9 @@ Když Haňťa viděl, že Mařenka je pořád zamyšlená, řekl: „S tím pan
 
 Pan šéf napsal potvrzenku, složil mu peníze do kapsy a zapjal ji na knoflík. Haňťa vzal vojku, dal ji do ruky panu Boučkovi a přidal mu na cestu přátelskou herdu. Tak se stalo, že pan Bouček, když odevzdával potvrzenku a peníze v Turistovi, z ničeho nic řekl vedoucímu: „Ty parchante…!“
 
-  
+</section>
+
+<section>
 
 Do dvora vjela radostně paní Rutnerová a hned křičela: „Setsakramentská banda! Tak si mě zavolali na vejbor a tam mi řekli, že prej my domovníci nesmíme bejt jako nějaká obec baráčníků, že prej musíme zvejšit ostražitost.“
 
@@ -489,7 +505,9 @@ Vzala za vojku, div ji neutrhla, ale ve vratech se ještě otočila: „Až bude
 
 Mařenka si hladila hlavu a říkala si: „Malá… malá… maličká…, ještě že máš na Olšanech hrobku…“
 
-  
+</section>
+
+<section>
 
 K poledni, když Haňťa udělal deset balíků, zastesklo se mu po antikvariátech. To byla jeho radost, uložit několik knih, které našel v makulatuře, do aktovky a jít je prodat.
 
@@ -573,7 +591,9 @@ Položil telefon.
 
 „A ode mě deset korun.“ Vedoucí položil svou bankovku. „A zavíráme, je poledne.“
 
-  
+</section>
+
+<section>
 
 V automatu hned naproti antikvariátu si Haňťa poručil hořčák. Pak si stoupl do kouta, usrkával a pozoroval běžící pás lidí, kteří se sem přicházeli najíst. Viděl výkladní skříní ven, jak se lidé nejdřív zastavují, jen tak přeběhnou zde vystavená kuřata, husy, sekanou, cikánské pečeně, obložené chlebíčky…, a jak se potom zpřesní na určité jídlo. Jak při tomhle už určitém pohledu se lidé olizují, polykají a pak vcházejí a v řadě čekají, jak než na ně přijde řada, zevlují, baví se navzájem, aby potom, když stojí tváří v tvář prodavačce, hrozně zvážněli… Toho si Haňťa nejvíc všímal, toho okamžiku, jak skoro každý člověk trne, zdalipak dostane tu nejpěknější část masa? A potom ten ukrutný pohled člověka na váhu, jestli snad nebyl ošizen o půl deka… A nakonec jak každý si odnáší to svoje jídlo do kouta a třetihorně to do sebe hází…
 
@@ -667,7 +687,9 @@ Paní Kyzourová obrátila kočárek vzhůru kolama. „Pane Haňťa, pomohl bys
 
 Ale dobře věděl, že kniha sjela dolů, až do sklepa.
 
-  
+</section>
+
+<section>
 
 Po šichtě chodíval Haňťa na faru pomáhat kostelníkovi řezat dříví.
 
@@ -771,7 +793,9 @@ Kostelník se zasmušil.
 
 „Jsem pohan,“ řekl.
 
-  
+</section>
+
+<section>
 
 Když se šéf vykoupal, zavřel sběrnu a rovnou zahnul do kostela. V přítmí a chladnu po kokosovém koberci důstojně kráčel k hlavnímu oltáři.
 
@@ -892,3 +916,5 @@ Vyšli před kostel.
 „Já… a zešílel! Pak mám v noci spát…,“ zahořekoval šéf.
 
 „Ale přijděte si k nám do dvora pro noviny!“ zvolal bodře a štrádoval si to na Karlák.
+
+</section>
