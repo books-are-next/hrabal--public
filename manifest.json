@@ -1,0 +1,340 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Perlička na dně",
+  "author": "Bohumil Hrabal",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hrabal-perlicka-na-dne-084da83",
+  "revision": "084da83",
+  "readingOrder": [
+    "promo.html",
+    "perlicka_na_dne_005.html",
+    "perlicka_na_dne_006.html",
+    "perlicka_na_dne_007.html",
+    "perlicka_na_dne_008.html",
+    "perlicka_na_dne_009.html",
+    "perlicka_na_dne_010.html",
+    "perlicka_na_dne_011.html",
+    "perlicka_na_dne_012.html",
+    "perlicka_na_dne_013.html",
+    "perlicka_na_dne_014.html",
+    "perlicka_na_dne_015.html",
+    "perlicka_na_dne_016.html",
+    "perlicka_na_dne_017.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 27 2022 08:04:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658909098156
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "perlicka_na_dne_005.html",
+      "toc": []
+    },
+    {
+      "title": "—",
+      "file": "perlicka_na_dne_005.html",
+      "words": 248,
+      "chars": 1435,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "perlicka_na_dne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "—",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večerní kurs",
+      "file": "perlicka_na_dne_006.html",
+      "words": 2758,
+      "chars": 15491,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 2,
+      "prev": "perlicka_na_dne_005.html",
+      "next": "perlicka_na_dne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večerní kurs",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miláček",
+      "file": "perlicka_na_dne_007.html",
+      "words": 3639,
+      "chars": 21099,
+      "ideas": 133,
+      "role": "chapter",
+      "order": 3,
+      "prev": "perlicka_na_dne_006.html",
+      "next": "perlicka_na_dne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miláček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Staré zlaté časy",
+      "file": "perlicka_na_dne_008.html",
+      "words": 1025,
+      "chars": 5986,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 4,
+      "prev": "perlicka_na_dne_007.html",
+      "next": "perlicka_na_dne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Staré zlaté časy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fádní odpoledne",
+      "file": "perlicka_na_dne_009.html",
+      "words": 3263,
+      "chars": 18733,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 5,
+      "prev": "perlicka_na_dne_008.html",
+      "next": "perlicka_na_dne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fádní odpoledne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrt pana Baltisberga",
+      "file": "perlicka_na_dne_010.html",
+      "words": 4697,
+      "chars": 27338,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 6,
+      "prev": "perlicka_na_dne_009.html",
+      "next": "perlicka_na_dne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrt pana Baltisberga",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Emánek",
+      "file": "perlicka_na_dne_011.html",
+      "words": 2364,
+      "chars": 13107,
+      "ideas": 122,
+      "role": "chapter",
+      "order": 7,
+      "prev": "perlicka_na_dne_010.html",
+      "next": "perlicka_na_dne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Emánek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Andělské oči",
+      "file": "perlicka_na_dne_012.html",
+      "words": 3255,
+      "chars": 19056,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 8,
+      "prev": "perlicka_na_dne_011.html",
+      "next": "perlicka_na_dne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Andělské oči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podvodníci",
+      "file": "perlicka_na_dne_013.html",
+      "words": 2134,
+      "chars": 11995,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 9,
+      "prev": "perlicka_na_dne_012.html",
+      "next": "perlicka_na_dne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podvodníci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Baron Prášil",
+      "file": "perlicka_na_dne_014.html",
+      "words": 11441,
+      "chars": 65485,
+      "ideas": 435,
+      "role": "chapter",
+      "order": 10,
+      "prev": "perlicka_na_dne_013.html",
+      "next": "perlicka_na_dne_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Baron Prášil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křtiny 1947",
+      "file": "perlicka_na_dne_015.html",
+      "words": 1704,
+      "chars": 10192,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 11,
+      "prev": "perlicka_na_dne_014.html",
+      "next": "perlicka_na_dne_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křtiny 1947",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "U zeleného stromu",
+      "file": "perlicka_na_dne_016.html",
+      "words": 2284,
+      "chars": 13019,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 12,
+      "prev": "perlicka_na_dne_015.html",
+      "next": "perlicka_na_dne_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "U zeleného stromu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pražské jesličky",
+      "file": "perlicka_na_dne_017.html",
+      "words": 5267,
+      "chars": 30097,
+      "ideas": 167,
+      "role": "chapter",
+      "order": 13,
+      "prev": "perlicka_na_dne_016.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pražské jesličky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 134,
+      "chars": 859,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "perlicka_na_dne_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 44220,
+      "chars": 253932,
+      "ideas": 1397
+    },
+    "chapters": {
+      "words": 44079,
+      "chars": 253033,
+      "ideas": 1378
+    }
+  }
+}
