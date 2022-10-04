@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-perlicka-na-dne-a840d36",
-  "revision": "a840d36",
+  "identifier": "hrabal-perlicka-na-dne-ff4fa1a",
+  "revision": "ff4fa1a",
   "readingOrder": [
     "promo.html",
     "perlicka_na_dne_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:55:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639737907
+    "date": "Tue Oct 04 2022 16:43:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901782295
   },
   "documents": [
     {
