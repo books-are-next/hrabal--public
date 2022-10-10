@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-perlicka-na-dne-d7e639f",
-  "revision": "d7e639f",
+  "identifier": "hrabal-perlicka-na-dne-2a93c04",
+  "revision": "2a93c04",
   "readingOrder": [
     "promo.html",
     "perlicka_na_dne_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:55:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150918772
+    "date": "Mon Oct 10 2022 15:47:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416867113
   },
   "documents": [
     {
@@ -308,7 +308,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 859,
+      "chars": 860,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -328,7 +328,7 @@
   "totals": {
     "all": {
       "words": 44220,
-      "chars": 253932,
+      "chars": 253933,
       "ideas": 1397
     },
     "chapters": {
