@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2834-2
 readingOrder:
   - promo.html
   - perlicka_na_dne_005.html
