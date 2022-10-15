@@ -9,7 +9,8 @@
       "modified": "2019-09-12T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-2834-2"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "— (Úvod)"
+            "title": "— (Úvod)",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Večerní kurs"
+            "title": "Večerní kurs",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Miláček"
+            "title": "Miláček",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_008.md",
@@ -135,8 +136,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Staré zlaté časy"
+            "title": "Staré zlaté časy",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_009.md",
@@ -148,8 +149,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Fádní odpoledne"
+            "title": "Fádní odpoledne",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_010.md",
@@ -161,8 +162,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Smrt pana Baltisberga"
+            "title": "Smrt pana Baltisberga",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_011.md",
@@ -174,8 +175,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Emánek"
+            "title": "Emánek",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_012.md",
@@ -187,8 +188,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Andělské oči"
+            "title": "Andělské oči",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_013.md",
@@ -200,8 +201,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Podvodníci"
+            "title": "Podvodníci",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_014.md",
@@ -213,8 +214,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Baron Prášil"
+            "title": "Baron Prášil",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_015.md",
@@ -226,8 +227,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Křtiny 1947"
+            "title": "Křtiny 1947",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_016.md",
@@ -239,8 +240,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "U zeleného stromu"
+            "title": "U zeleného stromu",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_017.md",
@@ -252,8 +253,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pražské jesličky"
+            "title": "Pražské jesličky",
+            "children": []
           },
           {
             "filename": "perlicka_na_dne_018.md",
@@ -468,6 +469,6 @@
       "user": "books-are-next",
       "repo": "hrabal-perlicka-na-dne"
     },
-    "generatedAt": 1658413363316
+    "generatedAt": 1665415772924
   }
 }
